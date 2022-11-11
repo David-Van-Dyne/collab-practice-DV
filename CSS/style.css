@@ -1,0 +1,17 @@
+.container1-fluid {
+    background-color: rgb(227, 59, 59);
+
+}
+
+.container2-fluid {
+    background-color: rgb(242, 241, 234);
+    height: auto;
+}
+
+.container3-fluid {
+    background-color: rgb(234, 56, 56);
+}
+
+.col-sm-2 {
+    background-color: rgb(203, 197, 197);
+}
