@@ -1,0 +1,17 @@
+.bg-red {
+    background-color: rgb(227, 59, 59);
+
+}
+
+.bg-white {
+    background-color: rgb(242, 241, 234);
+    height: auto;
+}
+
+.bg-blue {
+    background-color: rgb(86, 56, 234);
+}
+
+.bg-yellow {
+    background-color: rgb(186, 236, 20);
+}
