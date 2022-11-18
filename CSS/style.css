@@ -15,3 +15,11 @@
 .bg-yellow {
     background-color: rgb(186, 236, 20);
 }
+
+
+.jumbotron {
+    background-image: url(../img/IMG_6710.JPG); 
+    background-position: center;
+    background-size: cover;
+    height: 650px;
+}
